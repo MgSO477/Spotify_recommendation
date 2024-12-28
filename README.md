@@ -9,7 +9,7 @@ what techniques? what input and output?
 
 ## Live Demo
 Explore via Binder (No Installation Required)
-Click the link below to open an interactive version of the notebook:
+Click the link below to open an interactive version of the notebook (in the file `Python_spotify`):
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MgSO477/Spotify_recommendation/HEAD)
 
 
