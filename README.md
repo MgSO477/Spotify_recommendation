@@ -7,7 +7,11 @@ what techniques? what input and output?
 
 ## Installation 
 
-## Live Demo (?)
+## Live Demo
+Explore via Binder (No Installation Required)
+Click the link below to open an interactive version of the notebook:
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MgSO477/Spotify_recommendation/HEAD)
+
 
 ## Technologies usage
 
