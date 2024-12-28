@@ -8,6 +8,12 @@ This project is documented using Jupyter Book for a step-by-step explanation of 
 
 
 ## Features 
+The system allows users to:
+- Select a song by name.
+- Get personalized song recommendations.
+- Explore the methodology behind the recommendation system.
+
+
 - **Data Cleaning & Preprocessing**: Removed invalid values (NA), filtered outliers, and normalized numeric columns for consistency.
 - **K-Means Clustering**: Grouped songs into clusters based on numerical features (e.g., streams, release year, playlist count); Optimized the number of clusters (k) using the elbow method and silhouette score.
 - **KNN-Based Recommendations**: Suggested similar songs within the same cluster using the K-Nearest Neighbors (KNN) algorithm.
