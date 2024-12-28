@@ -5,9 +5,8 @@ A Python project leveraging clustering and machine learning to recommend songs b
 - Introduction
 - Features
 - How It Works
-- Installation
+- Run Locally
 - Usage
-- Interactive Documentation
 - Technologies Used
 - Future Applications
 - Acknowledgements
@@ -20,9 +19,8 @@ The project is presented in a Jupyter Book for interactive exploration and educa
 ## Features  
 - **Data Cleaning:** Preprocess and clean Spotify audio feature data.  
 - **Clustering Songs:** Group songs based on features such as tempo, energy, and danceability using k-means clustering.  
-- **Recommendation Engine:** Recommend songs by matching user preferences to song clusters.  
-- **Model Evaluation:** Use machine learning techniques to validate recommendation accuracy.  
-- **Interactive Documentation:** Explore the project step-by-step using Jupyter Book.  
+- **Recommendation Engine:** Recommend songs by matching user preferences to song clusters.   
+- **Interactive Widgets:** A Jupyter Notebook interface for testing recommendations interactively.
 
 ---
 
@@ -33,7 +31,6 @@ The project is presented in a Jupyter Book for interactive exploration and educa
    - Cluster songs using k-means based on audio features.  
 3. **Recommendation:**  
    - Use the clusters to suggest songs tailored to user preferences.  
-   - Evaluate the system using precision and recall metrics.  
 
 Here’s a quick workflow diagram:  
 
@@ -46,6 +43,11 @@ graph TD;
     E --> F[User-Specific Recommendations];
 
 ```
+
+## How to Run Locally
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/MgSO477/Spotify_recommendation.git
 
 ## Technologies Used
 - Python: pandas, scikit-learn, matplotlib.
