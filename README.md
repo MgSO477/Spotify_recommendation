@@ -48,6 +48,7 @@ graph TD;
    **Clone the Repository:**
    ```bash
    git clone https://github.com/MgSO477/Spotify_recommendation.git
+```
 
 ## Technologies Used
 - Python: pandas, scikit-learn, matplotlib.
