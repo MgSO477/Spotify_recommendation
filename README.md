@@ -5,14 +5,12 @@
 This project is a music recommendation system that suggests similar songs based on Spotify song features using machine learning models. The system groups songs into clusters and recommends the closest matches based on user input.
 
 This project is documented using Jupyter Book for a step-by-step explanation of the data processing, modelling, and evaluation process.
-
+The system allows users to:
+  - Select a song by name.
+  - Get personalized song recommendations.
+  - Explore the methodology behind the recommendation system.
 
 ## Features 
-The system allows users to:
-- Select a song by name.
-- Get personalized song recommendations.
-- Explore the methodology behind the recommendation system.
-
 
 - **Data Cleaning & Preprocessing**: Removed invalid values (NA), filtered outliers, and normalized numeric columns for consistency.
 - **K-Means Clustering**: Grouped songs into clusters based on numerical features (e.g., streams, release year, playlist count); Optimized the number of clusters (k) using the elbow method and silhouette score.
