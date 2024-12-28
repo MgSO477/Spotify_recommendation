@@ -5,10 +5,15 @@
 This project is a music recommendation system that suggests similar songs based on Spotify song features using machine learning models. The system groups songs into clusters and recommends the closest matches based on user input.
 
 This project is documented using Jupyter Book for a step-by-step explanation of the data processing, modelling, and evaluation process.
+
 The system allows users to:
   - Select a song by name.
   - Get personalized song recommendations.
   - Explore the methodology behind the recommendation system.
+    
+By using the widget in jupyterbook, given the songs name the user gives, user can get 5 similiar recommended songs like this:
+![Harry Styles](https://github.com/user-attachments/assets/ccafe37b-1b26-4964-b462-5c911af6cbcb)
+
 
 ## Features 
 
@@ -20,6 +25,10 @@ The system allows users to:
 
 
 ## Installation 
+ **Clone the Repository:**
+   ```bash
+   git clone https://github.com/MgSO477/Spotify_recommendation.git
+```
 
 ## Live Demo
 Explore via Binder (No Installation Required)
@@ -29,6 +38,12 @@ Click the link below to open an interactive version of the notebook (in the file
 
 
 ## Technologies usage
+- Python: pandas, scikit-learn, numpy, matplotlib, seaborn.
+- Jupyter Notebooks: For interactive coding, analysis, and visualization.
+- Spotify API: For data collection and feature extraction (e.g., song features like tempo, genre).
+- GitHub: For version control and code management.
+- Binder: For interactive hosting and running the project online.
+
 
 ## Future Application 
 - Music Platforms: Enhance playlist curation on platforms like Spotify or Apple Music.
