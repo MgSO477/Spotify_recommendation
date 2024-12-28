@@ -45,7 +45,7 @@ graph TD;
 ```
 
 ## How to Run Locally
-1. **Clone the Repository:**
+   **Clone the Repository:**
    ```bash
    git clone https://github.com/MgSO477/Spotify_recommendation.git
 
