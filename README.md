@@ -40,7 +40,6 @@ Click the link below to open an interactive version of the notebook (in the file
 ## Technologies usage
 - Python: pandas, scikit-learn, numpy, matplotlib, seaborn.
 - Jupyter Notebooks: For interactive coding, analysis, and visualization.
-- Spotify API: For data collection and feature extraction (e.g., song features like tempo, genre).
 - GitHub: For version control and code management.
 - Binder: For interactive hosting and running the project online.
 
